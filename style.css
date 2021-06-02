@@ -1,0 +1,73 @@
+
+body{
+    background-color: rgb(178, 215, 233);
+}
+
+.col{
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    justify-content: center;
+}
+p{
+    color: rgb(66, 66, 66);
+    font-weight: 200;
+}
+h1, h5{
+    font: bold;
+}
+#tokenSection{
+    display: none;
+}
+
+#deviceSection{
+    display: flex;
+}
+
+.container{
+    padding: 20px;    
+    background-color: rgb(66, 66, 66);
+    margin: 100px;
+    align-items: center;
+}
+
+.container2{
+    padding: 20px;    
+    background-color: rgb(66, 66, 66);
+    margin: 100px;
+    align-items: center;
+}
+
+
+#albumImage{
+    width: 300px;
+    float: left;
+    margin: 20px;
+}
+
+#trackTitle{
+    font-size:3em;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+
+#trackArtist{
+    font-size:2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+
+.welcomeText{
+    font-size:2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+
+.card{
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(66, 66, 66);
+}
+
+
+
